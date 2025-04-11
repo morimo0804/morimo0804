@@ -10,7 +10,7 @@
 
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,wordpress" />   <img src="https://raw.githubusercontent.com/morimo0804/morimo0804/main/assets/icon-black.png" alt="microCMS" width="48" height="48" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,wordpress" />　<img src="https://raw.githubusercontent.com/morimo0804/morimo0804/main/assets/icon-black.png" alt="microCMS" width="48" height="48" /> <br /><br />
 
 ## Use Tools
 
