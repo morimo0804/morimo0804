@@ -14,7 +14,7 @@
 
 ## Use Tools
 
-<img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma,vscode,github,vercel" />　<br /><br />
+<img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma,vscode,github,vercel" />　<img src="https://raw.githubusercontent.com/morimo0804/morimo0804/main/assets/icon-black.png" alt="microCMS" width="40" height="40" />　<br /><br />
 
 ## Currently in training
 
