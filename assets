@@ -1,0 +1,3 @@
+git add assets/icon-black.png
+git commit -m "Add logo image"
+git push origin main
